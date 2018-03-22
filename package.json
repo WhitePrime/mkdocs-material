@@ -1,26 +1,26 @@
 {
   "name": "mkdocs-material",
   "version": "2.7.0",
-  "description": "A Material Design theme for MkDocs",
+  "description": "A Material Design theme for Docs",
   "keywords": [
     "mkdocs",
     "documentation",
     "theme"
   ],
-  "homepage": "https://squidfunk.github.io/mkdocs-material/",
+  "homepage": "https://whiteprime.github.io/mkdocs-material/",
   "bugs": {
-    "url": "https://github.com/squidfunk/mkdocs-material/issues",
-    "email": "martin.donath@squidfunk.com"
+    "url": "https://github.com/whiteprime/mkdocs-material/issues",
+    "email": "white.prime@vivaldi.net"
   },
   "license": "MIT",
   "author": {
-    "name": "Martin Donath",
-    "email": "martin.donath@squidfunk.com"
+    "name": "White Prime",
+    "email": "white.prime@vivaldi.net"
   },
   "contributors": [],
   "repository": {
     "type": "git",
-    "url": "https://github.com/squidfunk/mkdocs-material.git"
+    "url": "https://github.com/whiteprime/mkdocs-material.git"
   },
   "scripts": {
     "build": "make clean build",
